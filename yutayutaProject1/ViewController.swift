@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         print("アイウエオ！！")
         print("カキくけこ")
         print("さしすせそ")
+
     }
 
 
